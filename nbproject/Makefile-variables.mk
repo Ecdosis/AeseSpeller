@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=GNU-MacOSX
-CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=libAeseSpeller.dylib
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/libAeseSpeller.dylib
-CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=libAeseSpeller.dylib.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/libAeseSpeller.dylib.tar
+CND_PLATFORM_Debug=GNU-Linux-x86
+CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
+CND_ARTIFACT_NAME_Debug=libAeseSpeller.so
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/libAeseSpeller.so
+CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
+CND_PACKAGE_NAME_Debug=libAeseSpeller.so.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/libAeseSpeller.so.tar
 # Release configuration
-CND_PLATFORM_Release=GNU-MacOSX
-CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=libAeseSpeller.dylib
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/libAeseSpeller.dylib
-CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=libAeseSpeller.dylib.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/libAeseSpeller.dylib.tar
+CND_PLATFORM_Release=GNU-Linux-x86
+CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
+CND_ARTIFACT_NAME_Release=libAeseSpeller.so
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/libAeseSpeller.so
+CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
+CND_PACKAGE_NAME_Release=libAeseSpeller.so.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/libAeseSpeller.so.tar
 #
 # include compiler specific variables
 #
